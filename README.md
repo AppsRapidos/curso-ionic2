@@ -1,7 +1,7 @@
-# curso-ionic2
+# Ionic 4
 Repositório do curso de Ionic
 
-Nem vou fazer esse curso Ionic é muito ruim, kkkkkk
+Não tem nada aqui vá embora :D
 
 # Use Java, Swift ou React Native
 Não perca tempo com aplicativos hibridos
